@@ -48,3 +48,13 @@ Make sure you have **Python 3.9+** installed.
    ```bash
    git clone https://github.com/Shashankii/Influencer-campaign-dashboard.git
    cd Influencer-campaign-dashboard
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+
+3. Launch the Streamlit app:
+
+streamlit run influencer_dashboard.py
+
