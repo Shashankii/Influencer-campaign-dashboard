@@ -39,11 +39,12 @@ All CSVs are located in the `/data/` folder:
 
 ---
 
-## 🚀 How to Run
 
-Make sure you have Python 3.9+ installed.
+## 🚀 How to Run Locally
 
-### Step 1: Install dependencies
+Make sure you have **Python 3.9+** installed.
 
-```bash
-pip install streamlit pandas plotly
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shashankii/Influencer-campaign-dashboard.git
+   cd Influencer-campaign-dashboard
