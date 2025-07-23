@@ -1,0 +1,13 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+Insta,SummerFit,1,101,Whey,2025-07-02,2,4000
+YT,HealthWave,2,102,Vitamins,2025-07-03,1,1500
+Insta,SummerFit,1,103,Whey,2025-07-11,3,6000
+Insta,MusclePush,3,104,Creatine,2025-07-05,2,3000
+YT,YogaRise,4,105,Protein Bar,2025-07-06,1,1200
+YT,MassGain,5,106,Mass Gainer,2025-07-07,2,5000
+Twitter,HealMind,6,107,Omega 3,2025-07-08,1,800
+Insta,SummerFit,3,108,Whey,2025-07-08,2,4200
+YT,HealthWave,2,109,Vitamins,2025-07-10,1,1600
+Insta,MusclePush,1,110,Creatine,2025-07-11,1,1500
+YT,YogaRise,4,111,Protein Bar,2025-07-12,2,2400
+Twitter,HealMind,6,112,Iron Supplement,2025-07-13,1,1000
