@@ -51,10 +51,11 @@ Make sure you have **Python 3.9+** installed.
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+   ```bash
+     pip install -r requirements.txt
 
 
 3. Launch the Streamlit app:
-
+   ```bash
 streamlit run influencer_dashboard.py
 
