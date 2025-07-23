@@ -6,10 +6,12 @@ st.set_page_config(page_title="Influencer Campaign Dashboard", layout="wide")
 st.title("📊 HealthKart Influencer Campaign Dashboard")
 
 # Load CSVs
-influencers = pd.read_csv("data/influencers.csv")
-posts = pd.read_csv("data/posts.csv")
-tracking = pd.read_csv("data/tracking_data.csv")
-payouts = pd.read_csv("data/payouts.csv")
+influencers = pd.read_csv("influencers.csv")
+posts = pd.read_csv("posts.csv")
+tracking = pd.read_csv("tracking_data.csv")
+payouts = pd.read_csv("payouts.csv")
+
+
 
 # Sidebar filter: platform
 st.sidebar.header("🔍 Filters")
