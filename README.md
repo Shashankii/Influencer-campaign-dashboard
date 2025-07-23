@@ -56,6 +56,7 @@ Make sure you have **Python 3.9+** installed.
 
 
 3. Launch the Streamlit app:
+
    ```bash
-streamlit run influencer_dashboard.py
+    streamlit run influencer_dashboard.py
 
