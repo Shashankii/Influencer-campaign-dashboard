@@ -4,7 +4,7 @@ This dashboard analyzes influencer campaign performance for HealthKart across pl
 
 ---
 
-🔗 **Live App:** [Click here to view the dashboard](https://your-username-streamlit-app-name.streamlit.app)
+🔗 **Live App:** [Click here to view the dashboard](https://influencer-campaign-dashboard-esce3oq4t5nbgxfu3nnx6t.streamlit.app/)
 
 
 
